@@ -50,5 +50,9 @@ LoadScript init/init-style.vim
 " 自定义按键
 LoadScript init/init-keymaps.vim
 
+" 快捷键帮助汉化
+LoadScript init/init-help.vim
+LoadScript init/init-maphelp.vim
+
 
 
